@@ -1,13 +1,31 @@
 # douyin
 抖音数据采集， 支持日采百万
 
-## 搜索
+## 用户搜索
 ```
 /dy/search/user
 ```
 #参数:
 - username 搜索关键词
 - pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，初始为0
+
+## 视频搜索
+```
+/dy/search/v"
+```
+#参数:
+- vname 搜索关键词
+- pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
+- soutType 筛选类型：综合=0，最多点赞=1，最新=2
+- timeRange 时间筛选：不限=0，一天=1，一周=7，半年=180
+
+## 话题搜索
+```
+/dy/search/topic
+```
+#参数:
+- topic 搜索关键词
+- pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
 
 ## 用户信息（uid查询）
 ```
