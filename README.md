@@ -5,7 +5,7 @@
 ```
 /dy/search/user
 ```
-#参数:
+### 参数:
 - username 搜索关键词
 - pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，初始为0
 
@@ -13,7 +13,7 @@
 ```
 /dy/search/v"
 ```
-#参数:
+### 参数:
 - vname 搜索关键词
 - pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
 - soutType 筛选类型：综合=0，最多点赞=1，最新=2
@@ -23,7 +23,7 @@
 ```
 /dy/search/topic
 ```
-#参数:
+### 参数:
 - topic 搜索关键词
 - pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
 
@@ -31,28 +31,28 @@
 ```
 /dy/user/info/uid
 ```
-#参数:
+### 参数:
 - uid 
 
 ## 用户信息（sec_id查询）
 ```
 /dy/user/info/secid
 ```
-#参数:
+### 参数:
 - secId 用户sec_id，分享链接即可看见
 
 ## 用户信息（抖音号）
 ```
 /dy/user/info/dyid
 ```
-#参数:
+### 参数:
 - dyId 抖音号
 
 ## 用户作品列表
 ```
 /dy/user/videos
 ```
-#参数:
+### 参数:
 - uid 用户uid，非抖音号
 - pageIndex 翻页游标，根据结果返回的max_cursor传入作为下一页翻页参数，初始为0
 
@@ -60,7 +60,7 @@
 ```
 /dy/user/likes
 ```
-#参数:
+### 参数:
 - uid 用户uid，非抖音号
 - pageIndex 翻页游标，根据结果返回的max_cursor传入作为下一页翻页参数，初始为0
 
@@ -68,7 +68,7 @@
 ```
 /dy/user/focus
 ```
-#参数:
+### 参数:
 - uid 用户uid，非抖音号
 - pageIndex 翻页游标，根据结果返回的min_time传入作为下一页翻页参数，**初始为0**
 
@@ -76,7 +76,7 @@
 ```
 /dy/user/fans
 ```
-#参数:
+### 参数:
 - uid 用户uid，非抖音号
 - pageIndex 翻页游标，根据结果返回的min_time传入作为下一页翻页参数，**初始为0**
 
@@ -84,28 +84,28 @@
 ```
 /dy/user/sales
 ```
-#参数:
+### 参数:
 - uid 用户uid，非抖音号
 
 ## 抖音商品详情
 ```
 /dy/user/goods/detail
 ```
-#参数:
+### 参数:
 - goodsId 商品id
 
 ## 抖音视频详情
 ```
 /dy/v/detail
 ```
-#参数:
+### 参数:
 - vid 视频id
 
 ## 抖音视频评论列表
 ```
 /dy/v/comments
 ```
-#参数:
+### 参数:
 - vid 视频id
 - pageIndex 翻页游标，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
 
@@ -113,7 +113,7 @@
 ```
 /dy/v/noicon
 ```
-#参数:
+### 参数:
 - vid 视频id
 
 ## 直播弹幕获取
