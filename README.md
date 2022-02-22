@@ -9,7 +9,7 @@
 - username 搜索关键词
 - pageIndex 翻页参数，根据结果返回的cursor传入作为下一页翻页参数，初始为0
 
-## 视频搜索
+## 视频搜索 
 ```
 /dy/search/v"
 ```
