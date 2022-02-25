@@ -109,6 +109,17 @@
 - vid 视频id
 - pageIndex 翻页游标，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
 
+
+## 抖音视频评论下的回复内容
+```
+/dy/v/comments4replays
+```
+### 参数:
+- vid 视频id
+- cid cid，可在视频评论内获取
+- pageIndex 翻页游标，根据结果返回的cursor传入作为下一页翻页参数，**初始为0**
+
+
 ## 抖音视频无水印解析
 ```
 /dy/v/noicon
