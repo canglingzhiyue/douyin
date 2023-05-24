@@ -22,50 +22,9 @@
 |作品列表|用户橱窗|
 |点赞列表|商品详情|
 |主页手机|水印解析|
-||实时弹幕|
+| ·|实时弹幕|
 
 
-## 1.抖音主页完整信息
-```
-/dy/user/info/all
-```
-### 参数:
-|参数名|类型|必选|说明|
-|--|:--:|:--:|:--|
-|token|string|是|访问凭证|
-|uid|string|是|用户uid|
-|secid|string|否|MS4开头的id,和 uid二选一|
-
-<details> 
- <summary><font size="4" color="orange">查看返回数据</font></summary> 
- <pre>
-  <code class="language-cpp">
-    
-  </code>
- </pre>
-</details>
-
-
-
-## 1.抖音主页完整信息
-```
-/dy/user/info/all
-```
-### 参数:
-|参数名|类型|必选|说明|
-|--|:--:|:--:|:--|
-|token|string|是|访问凭证|
-|uid|string|是|用户uid|
-|secId|string|否|MS4开头的id,和 uid二选一|
-
-<details> 
- <summary><font size="4" color="orange">查看返回数据</font></summary> 
- <pre>
-  <code class="language-cpp">
-    
-  </code>
- </pre>
-</details>
 
 
 ## 1.抖音主页完整信息
