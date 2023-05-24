@@ -36,7 +36,7 @@
 |--|:--:|:--:|:--|
 |token|string|是|访问凭证|
 |uid|string|是|用户uid|
-|secid|string|否|MS4开头的id,和 uid二选一|
+|secId|string|否|MS4开头的id,和 uid二选一|
 
 <details> 
  <summary><font size="4" color="orange">查看返回数据</font></summary> 
