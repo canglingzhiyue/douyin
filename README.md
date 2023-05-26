@@ -1,4 +1,4 @@
-<!-- # douyin
+# douyin
 ####  抖音直播 抖音弹幕 直播弹幕
 
 ### 返回code常用状态码说明
@@ -172,12 +172,11 @@
 请勿使用本服务大量抓取   
 若因使用本服务与平台造成不必要的纠纷，本人盖不负责  
 本人纯粹技术爱好，若侵犯贵公司的权益，请告知  
-``` -->
+```
 
-<!-- 有需要的[联系QQ45497494](https://qr.api.cli.im/newqr/create?data=https%253A%252F%252Fqm.qq.com%252Fcgi-bin%252Fqm%252Fqr%253Fk%253DgsXU_14bQsI8BdSevrFzHU7vIYnRCnFQ%2526noverify%253D0&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=500&kid=cliim&key=211db538a2ba8c28441f5d952fe165db) -->
-<!-- ### 联系QQ:45497494
+### 联系QQ:45497494
 ###
 <img src="https://qr.api.cli.im/newqr/create?data=https%253A%252F%252Fqm.qq.com%252Fcgi-bin%252Fqm%252Fqr%253Fk%253DgsXU_14bQsI8BdSevrFzHU7vIYnRCnFQ%2526noverify%253D0&level=H&transparent=false&bgcolor=%23FFFFFF&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&logoshape=no&size=500&kid=cliim&key=211db538a2ba8c28441f5d952fe165db" width="20%">
 
 ~~### [小红书](https://github.com/canglingzhiyue/xiaohongshu)~~
-~~### [拼多多](https://github.com/canglingzhiyue/pdd)~~ -->
+~~### [拼多多](https://github.com/canglingzhiyue/pdd)~~
