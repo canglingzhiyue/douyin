@@ -1,6 +1,9 @@
 # douyin
 ####  抖音直播 抖音弹幕 直播弹幕
 ![直播弹幕礼物信息获取](douyin_live_danmu.png)
+
+<iframe src="v.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ### 返回code常用状态码说明
 |状态码|说明|
 |--|--|
@@ -20,10 +23,11 @@
 |回复列表|话题搜索|
 |作品列表|用户橱窗|
 |点赞列表|商品详情|
-|主页手机|水印解析|
-| |实时弹幕(已添加)|
-
-
+|主页手机||
+|实时弹幕 ||
+|水印解析 ||
+|隐私直播间弹幕 ||
+|匿名直播间弹幕 ||
 
 
 ## 1.抖音主页完整信息
