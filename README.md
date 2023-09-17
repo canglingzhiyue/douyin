@@ -2,7 +2,7 @@
 ####  抖音直播 抖音弹幕 直播弹幕
 ![直播弹幕礼物信息获取](douyin_live_danmu.png)
 
-<iframe src="v.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://github.com/canglingzhiyue/douyin/blob/main/v.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 返回code常用状态码说明
 |状态码|说明|
