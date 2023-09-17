@@ -2,11 +2,6 @@
 ####  抖音直播 抖音弹幕 直播弹幕
 ![直播弹幕礼物信息获取](douyin_live_danmu.png)
 
-<iframe src="https://github.com/canglingzhiyue/douyin/blob/main/v.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-<video src="v.mp4" controls>
-  你的浏览器不支持 <code>video</code> 标签。
-</video>
 
 ### 返回code常用状态码说明
 |状态码|说明|
